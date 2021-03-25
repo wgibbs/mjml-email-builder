@@ -1,0 +1,18 @@
+<!-- HEADER START -->
+<mj-section padding="20px" background-color="#000000" border-bottom="2px solid #000000">
+  <mj-column padding="0px" vertical-align="middle">
+    <mj-table padding="0px">
+      <tr>
+        <td class="header-logo-container" width="50%" align="left">
+          <a href="https://www.wgibbs.com/" target="_blank">
+            <img class="header-logo" src="https://www.wgibbs.com/email-images/wg-logo--email-header.jpg" alt="WG Logo" width="50" />
+          </a>
+        </td>
+        <td width="50%" align="right">
+          <a href="https://www.wgibbs.com/travel-photo-slideshow/" target="_blank" class="header-button">View Site</a>
+        </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
+<!-- HEADER END -->

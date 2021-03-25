@@ -1,0 +1,62 @@
+<mj-wrapper padding="0px">
+  
+  <mj-section padding="0px">
+    <mj-column padding="0px">
+      <mj-image padding="0px" href="https://www.wgibbs.com/travel-photo-slideshow/" alt="Arches National Park" src="https://www.wgibbs.com/email-images/masthead--arches.jpg" />
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="40px 20px 0px 20px" background-color="#F8F8FF">
+    <mj-column padding="0px" width="80%">
+      <mj-text padding="0px" font-size="30px" line-height="36px" color="#000000" align="center">
+        <h1>Welcome to my Travel Photo Slideshow Newsletter</h1>
+      </mj-text>
+      <mj-divider padding="10px 0px 0px 0px" border-width="1px" width="100px" border-style="solid" border-color="#000000" />
+      <mj-text padding="15px 0px 0px" font-size="18px" line-height="24px" color="#000000" align="center">
+        <p>Thanks for viewing! This slideshow is an ongoing project created to showcase some of my outdoor travel photography and to keep up my development skills. I contributed UI desgin and front-end web&nbsp;development.</p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="30px 0px 0px 0px" background-color="#F8F8FF">
+    <mj-column padding="0px">
+      <mj-button padding="0px" inner-padding="20px 30px 20px 30px" border-radius="0px" font-size="24px" href="https://www.wgibbs.com/travel-photo-slideshow/" background-color="#000000" color="#FFFFFF" width="280px">
+        View Site
+      </mj-button>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="40px 0px 0px 0px" background-color="#F8F8FF">
+    <mj-column padding="0px">
+      <mj-divider padding="10px 0px 0px 0px" border-width="1px" width="85%" border-style="solid" border-color="#000000" />
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="40px 20px 0px 20px" background-color="#F8F8FF">
+    <mj-column padding="0px" width="70%">
+      <mj-text padding="0px" font-size="36px" line-height="44px" color="#000000" align="center" font-family="Open Sans, Arial, sans-serif">
+        <h2>Arches National Park</h2>
+      </mj-text>
+      <mj-divider padding="10px 0px 0px 0px" border-width="1px" width="100px" border-style="solid" border-color="#000000" />
+      <mj-text padding="15px 0px 0px 0px" font-size="18px" line-height="22px" color="#000000" align="center">
+        <p>Arches National Park is a national park in eastern Utah, United States. The park is adjacent to the Colorado River, 4 miles (6 km) north of Moab,&nbsp;Utah.</p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="30px 20px 0px 20px" background-color="#F8F8FF">
+    <mj-column padding="0px">
+      <mj-image padding="0px 0px 20px 0px" width="400px" href="https://goo.gl/maps/zxe1o9Khsj2nFwob6" alt="Arches National Park" border="1px solid #000000" src="https://www.wgibbs.com/email-images/map-img--arches.jpg" />
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="20px 0px 60px 0px" background-color="#F8F8FF">
+    <mj-column padding="0px">
+      <mj-button padding="0px" border-radius="0px" inner-padding="20px 30px 20px 30px" font-size="24px" href="https://goo.gl/maps/zxe1o9Khsj2nFwob6" background-color="#000000" color="#FFFFFF" width="280px">
+        View Map
+      </mj-button>
+    </mj-column>
+  </mj-section>
+
+</mj-wrapper>

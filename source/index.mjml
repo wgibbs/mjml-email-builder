@@ -1,0 +1,17 @@
+<mjml>
+  <mj-head>
+    <mj-title>Travel Photo Slideshow Newsletter</mj-title>
+    <mj-preview>Welcome to my Travel Photo Slideshow Newsletter</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+    </mj-attributes>
+    <mj-include path="./styles/global/desktop-styles.mjml" />
+    <mj-include path="./styles/global/mobile-styles.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="./components/global/header.mjml" />
+    <mj-include path="./components/main-content/template-1/index.mjml" />
+    <mj-include path="./components/global/footer.mjml" />
+  </mj-body>
+</mjml>
