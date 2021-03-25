@@ -2,7 +2,7 @@
 /* Global Mobile Styles Under 480px ///////////////////////////// */
 
 @media all and (max-width: 480px) {
-	.footer__fine-print-text div {font-size: 16px !important;}
+  .footer__fine-print-text div {font-size: 16px !important;}
 }
 
 </mj-style>
