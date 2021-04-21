@@ -2,13 +2,13 @@
 <mj-section padding="60px 20px 0px 20px" background-color="#000000">
   <mj-group width="65%">
     <mj-column padding="0px">
-      <mj-image width="44px" align="right" padding="0px" href="https://www.wgibbs.com/travel-photo-slideshow/" alt="Facebook CTA" src="https://www.wgibbs.com/email-images/facebook-icon--footer.png" />
+      <mj-image width="44px" align="right" padding="0px" href="https://www.wgibbs.com/vue-photo-gallery/" alt="Facebook CTA" src="https://www.wgibbs.com/email-images/facebook-icon--footer.png" />
     </mj-column>
     <mj-column padding="0px">
-      <mj-image width="44px" padding="0px" href="https://www.wgibbs.com/travel-photo-slideshow/" alt="LinkedIn CTA" src="https://www.wgibbs.com/email-images/linkedin-icon--footer.png" />
+      <mj-image width="44px" padding="0px" href="https://www.wgibbs.com/vue-photo-gallery/" alt="LinkedIn CTA" src="https://www.wgibbs.com/email-images/linkedin-icon--footer.png" />
     </mj-column>
     <mj-column padding="0px">
-      <mj-image width="44px" align="left" padding="0px" href="https://www.wgibbs.com/travel-photo-slideshow/" alt="Twitter CTA" src="https://www.wgibbs.com/email-images/twitter-icon--footer.png" />
+      <mj-image width="44px" align="left" padding="0px" href="https://www.wgibbs.com/vue-photo-gallery/" alt="Twitter CTA" src="https://www.wgibbs.com/email-images/twitter-icon--footer.png" />
     </mj-column>
   </mj-group>
 </mj-section>
@@ -22,7 +22,7 @@
 <mj-section padding="25px 0px 60px 0px" background-color="#000000">
   <mj-column padding="0px">
     <mj-text css-class="footer__fine-print-text" padding="0px" align="center" color="#FFFFFF" font-size="18px" line-height="24px" font-weight="400">
-      &copy; 2021 Travel Photo Slideshow.
+      &copy; 2021 Photo Gallery Inc.
     </mj-text>
   </mj-column>
 </mj-section>
