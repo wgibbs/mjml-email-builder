@@ -9,7 +9,7 @@
   <mj-section padding="40px 20px 0px 20px" background-color="#F8F8FF">
     <mj-column padding="0px" width="80%">
       <mj-text padding="0px 20px 0px 20px" font-size="30px" line-height="36px" color="#000000" align="center">
-        <h1>Welcome to my Photo Gallery App Newsletter</h1>
+        <h1>Welcome to my Photo Gallery Newsletter</h1>
       </mj-text>
       <mj-divider padding="10px 0px 0px 0px" border-width="1px" width="100px" border-style="solid" border-color="#000000" />
       <mj-text padding="15px 0px 0px" font-size="18px" line-height="24px" color="#000000" align="center">
