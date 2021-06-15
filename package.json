@@ -15,6 +15,7 @@
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-mjml": "^3.0.0",
     "gulp-pretty-html": "^2.0.9",
     "mjml": "^4.0.0",

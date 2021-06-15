@@ -1,3 +1,4 @@
 *DS_Store
 /build/images
 node_modules
+.publish
