@@ -2,8 +2,7 @@ const gulp = require('gulp'),
 mjml = require('gulp-mjml'),
 prettyHtml = require('gulp-pretty-html'),
 mjmlEngine = require('mjml'),
-browserSync = require('browser-sync'),
-deploy = require('gulp-gh-pages');
+browserSync = require('browser-sync');
 
 
 gulp.task('mjml', (done) => {
@@ -25,11 +24,5 @@ gulp.task('serve', () => {
   gulp.watch('./source/**/*.mjml').on('change', browserSync.reload);
   gulp.watch('./source/**/*.mjml', gulp.series(['build']));
 });
-
-gulp.task('deploy', () => {
-  return gulp.src("./build/**/*")
-  gulp.pipe(deploy())
-});
-
 
 gulp.task('default', gulp.series('build', 'serve'));

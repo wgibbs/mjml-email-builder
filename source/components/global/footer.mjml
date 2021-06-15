@@ -2,13 +2,13 @@
 <mj-section padding="60px 20px 0px 20px" background-color="#000000">
   <mj-group width="65%">
     <mj-column padding="0px">
-      <mj-image width="44px" align="right" padding="0px" href="https://wgibbs.com/" alt="Facebook CTA" src="https://www.wgibbs.com/email-images/facebook-icon--footer.png" />
+      <mj-image width="44px" align="right" padding="0px" href="https://wgibbs.com/" alt="Facebook CTA" src="./images/global/facebook-icon--footer.png" />
     </mj-column>
     <mj-column padding="0px">
-      <mj-image width="44px" padding="0px" href="https://wgibbs.com/" alt="LinkedIn CTA" src="https://www.wgibbs.com/email-images/linkedin-icon--footer.png" />
+      <mj-image width="44px" padding="0px" href="https://wgibbs.com/" alt="LinkedIn CTA" src="./images/global/linkedin-icon--footer.png" />
     </mj-column>
     <mj-column padding="0px">
-      <mj-image width="44px" align="left" padding="0px" href="https://wgibbs.com/" alt="Twitter CTA" src="https://www.wgibbs.com/email-images/twitter-icon--footer.png" />
+      <mj-image width="44px" align="left" padding="0px" href="https://wgibbs.com/" alt="Twitter CTA" src="./images/global/twitter-icon--footer.png" />
     </mj-column>
   </mj-group>
 </mj-section>

@@ -5,7 +5,7 @@
       <tr>
         <td class="header-logo-container" width="50%" align="left">
           <a href="https://www.wgibbs.com/" target="_blank">
-            <img class="header-logo" src="https://www.wgibbs.com/email-images/wg-logo--email-header.jpg" alt="WG Logo" width="50" />
+            <img class="header-logo" src="./images/global/wg-logo--email-header.jpg" alt="WG Logo" width="50" />
           </a>
         </td>
         <td width="50%" align="right">
