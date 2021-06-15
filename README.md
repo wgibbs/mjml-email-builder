@@ -1,5 +1,7 @@
 # MJML Email Builder
-A responsive email template builder incorporating MJML + Gulp. The example template is a mock-up email newsletter I designed and developed to go along with my Vue Photo Gallery. The example template can be viewed <a href="https://www.wgibbs.com/mjml-email-builder-template-1/" target="_blank">here</a>.
+A responsive email template builder incorporating MJML + Gulp. The example template is a mock-up email newsletter I designed and developed to go along with my Photo Gallery App.
+
+[View Demo =>](https://www.wgibbs.com/mjml-email-builder-template-1/)
 
 ## Technologies
 - MJML -> <a href="https://mjml.io/documentation/" target="_blank">Documentation</a>
