@@ -2,7 +2,7 @@
   
   <mj-section padding="0px">
     <mj-column padding="0px">
-      <mj-image padding="0px" href="https://wgibbs.com/photo-gallery-app/" alt="Arches National Park" src="./images/mastheads/masthead--arches.jpg" />
+      <mj-image padding="0px" href="https://wgibbs.github.io/photo-gallery-app/" alt="Arches National Park" src="./images/mastheads/masthead--arches.jpg" />
     </mj-column>
   </mj-section>
 
@@ -20,7 +20,7 @@
 
   <mj-section padding="30px 0px 0px 0px" background-color="#F8F8FF">
     <mj-column padding="0px">
-      <mj-button padding="0px" inner-padding="20px 30px 20px 30px" border-radius="0px" font-size="24px" href="https://wgibbs.com/photo-gallery-app/" background-color="#000000" color="#FFFFFF" width="280px">
+      <mj-button padding="0px" inner-padding="20px 30px 20px 30px" border-radius="0px" font-size="24px" href="https://wgibbs.github.io/photo-gallery-app/" background-color="#000000" color="#FFFFFF" width="280px">
         View Site
       </mj-button>
     </mj-column>
