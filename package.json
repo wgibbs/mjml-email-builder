@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-mjml": "^3.0.0",
     "gulp-pretty-html": "^2.0.9",
     "mjml": "^4.0.0",
