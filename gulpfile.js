@@ -27,4 +27,4 @@ function serve() {
 exports.default = function() {
   buildMjml();
   serve();
-};
+}
