@@ -9,11 +9,11 @@
   <mj-section padding="40px 20px 0px 20px" background-color="#F8F8FF">
     <mj-column padding="0px" width="80%">
       <mj-text padding="0px 20px 0px 20px" font-size="30px" line-height="36px" color="#000000" align="center">
-        <h1>Welcome to my Photo Gallery App Newsletter</h1>
+        <h1>Welcome to my Photo Gallery Web App Newsletter</h1>
       </mj-text>
       <mj-divider padding="10px 0px 0px 0px" border-width="1px" width="100px" border-style="solid" border-color="#000000" />
       <mj-text padding="15px 0px 0px" font-size="18px" line-height="24px" color="#000000" align="center">
-        <p>Thanks for stoppping by! This project is a single page application photo gallery created with Nuxt.js + Tailwind CSS and built to showcase some of my nature/outdoor photography. I contributed UI/UX desgin and front-end web&nbsp;development.</p>
+        <p>Thanks for stoppping by! This project is a single-page web application photo gallery created with Nuxt.js + Tailwind CSS and built to showcase some of my nature/outdoor photography. I contributed UI/UX desgin and front-end web&nbsp;development.</p>
       </mj-text>
     </mj-column>
   </mj-section>
