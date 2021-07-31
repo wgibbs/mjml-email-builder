@@ -1,28 +1,29 @@
+const { dest, series, src, watch } = require('gulp');
 const gulp = require('gulp'),
 mjml = require('gulp-mjml'),
-prettyHtml = require('gulp-pretty-html'),
 mjmlEngine = require('mjml'),
 browserSync = require('browser-sync');
 
+const mjmlSrcPath = ['./source/index.mjml'];
 
-gulp.task('mjml', (done) => {
-  gulp.src('./source/index.mjml')
+function buildMjml() {
+  gulp.src(mjmlSrcPath)
   .pipe(mjml(mjmlEngine, {minify: true}))
   .pipe(gulp.dest('./build/'))
-  done();
-});
+  .pipe(browserSync.stream());
+}
 
-gulp.task("build", gulp.series(['mjml']));
-
-gulp.task('serve', () => {
+function serve() {
   browserSync.init({
     server: "./build/",
     port: 8000,
     open: true,
     notify: false
   });
-  gulp.watch('./source/**/*.mjml').on('change', browserSync.reload);
-  gulp.watch('./source/**/*.mjml', gulp.series(['build']));
-});
+  watch(mjmlSrcPath).on('change', series(buildMjml, browserSync.reload));
+}
 
-gulp.task('default', gulp.series('build', 'serve'));
+exports.default = function() {
+  buildMjml();
+  serve();
+};
